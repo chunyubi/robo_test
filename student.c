@@ -6,6 +6,11 @@ void addStudent(Student *students, int *count)
 
 void printAll(const Student *students, int count)
 {
+    int i=0;
+    for(i=0;i<100;i++)
+    {
+        
+    }
     return;
 }
 
